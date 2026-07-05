@@ -92,7 +92,7 @@
 
 <table align="center">
   <tr>
-    <td colspan="3" align="center">
+    <td colspan="6" align="center">
       <strong>⚙️ Backend</strong>
     </td>
   </tr>
@@ -109,6 +109,18 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="Ruby on Rails" width="52" height="52"/>
       <br/><sub><b>Rails</b></sub>
     </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/mdi:server-network.svg?color=%23CC342D" alt="Rack" width="52" height="52"/>
+      <br/><sub><b>Rack</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:grape.svg" alt="Grape" width="52" height="52"/>
+      <br/><sub><b>Grape</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:sinatra.svg" alt="Sinatra" width="52" height="52"/>
+      <br/><sub><b>Sinatra</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -116,8 +128,8 @@
 
 <table align="center">
   <tr>
-    <td colspan="5" align="center">
-      <strong>🗄️ Database</strong>
+    <td colspan="6" align="center">
+      <strong>🗄️ Database & Search</strong>
     </td>
   </tr>
   <tr>
@@ -141,6 +153,10 @@
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="52" height="52"/>
       <br/><sub><b>SQLite</b></sub>
     </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="52" height="52"/>
+      <br/><sub><b>Elasticsearch</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -148,8 +164,52 @@
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center">
-      <strong>☁️ DevOps & Cloud</strong>
+    <td colspan="8" align="center">
+      <strong>☁️ AWS Services</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="52" height="52"/>
+      <br/><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" alt="AWS SQS" width="52" height="52"/>
+      <br/><sub><b>SQS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Notification-Service.svg" alt="AWS SNS" width="52" height="52"/>
+      <br/><sub><b>SNS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" alt="AWS CloudWatch" width="52" height="52"/>
+      <br/><sub><b>CloudWatch</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="AWS Lambda" width="52" height="52"/>
+      <br/><sub><b>Lambda</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/EventBridge.svg" alt="AWS EventBridge" width="52" height="52"/>
+      <br/><sub><b>EventBridge</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="./assets/icons/aws-pinpoint.svg" alt="AWS Pinpoint" width="52" height="52"/>
+      <br/><sub><b>Pinpoint</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elemental-MediaConvert.svg" alt="AWS MediaConvert" width="52" height="52"/>
+      <br/><sub><b>MediaConvert</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td colspan="4" align="center">
+      <strong>🚀 DevOps & Cloud</strong>
     </td>
   </tr>
   <tr>
@@ -158,13 +218,43 @@
       <br/><sub><b>Docker</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="52" height="52"/>
-      <br/><sub><b>AWS</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="52" height="52"/>
+      <br/><sub><b>Heroku</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="52" height="52"/>
+      <br/><sub><b>Grafana</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="52" height="52"/>
+      <br/><sub><b>Prometheus</b></sub>
     </td>
   </tr>
 </table>
 
 <br/>
+
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <strong>📡 Monitoring & Logging</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/bugsnag/bugsnag-icon.svg" alt="Bugsnag" width="52" height="52"/>
+      <br/><sub><b>Bugsnag</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="Sentry" width="52" height="52"/>
+      <br/><sub><b>Sentry</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" alt="Sumo Logic" width="52" height="52"/>
+      <br/><sub><b>Sumo Logic</b></sub>
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
