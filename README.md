@@ -28,23 +28,301 @@
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Building+with+modern+tools+%26+timeless+craft" alt="Tech stack tagline" />
+</p>
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+<br/>
 
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+<table align="center">
+  <tr>
+    <td colspan="6" align="center">
+      <strong>💻 Programming Languages</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="52" height="52"/>
+      <br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="52" height="52"/>
+      <br/><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="52" height="52"/>
+      <br/><sub><b>Ruby</b></sub>
+    </td>
+  </tr>
+</table>
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+<br/>
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /></p>
+<table align="center">
+  <tr>
+    <td colspan="5" align="center">
+      <strong>🎨 Frontend</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="52" height="52"/>
+      <br/><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="52" height="52"/>
+      <br/><sub><b>Vue.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="52" height="52"/>
+      <br/><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="52" height="52"/>
+      <br/><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="52" height="52"/>
+      <br/><sub><b>Bootstrap</b></sub>
+    </td>
+  </tr>
+</table>
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+<br/>
+
+<table align="center">
+  <tr>
+    <td colspan="6" align="center">
+      <strong>⚙️ Backend</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="52" height="52"/>
+      <br/><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="52" height="52"/>
+      <br/><sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="Ruby on Rails" width="52" height="52"/>
+      <br/><sub><b>Rails</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/mdi:server-network.svg?color=%23CC342D" alt="Rack" width="52" height="52"/>
+      <br/><sub><b>Rack</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:grape.svg" alt="Grape" width="52" height="52"/>
+      <br/><sub><b>Grape</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:sinatra.svg" alt="Sinatra" width="52" height="52"/>
+      <br/><sub><b>Sinatra</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td colspan="6" align="center">
+      <strong>🗄️ Database & Search</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="52" height="52"/>
+      <br/><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="52" height="52"/>
+      <br/><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="52" height="52"/>
+      <br/><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="52" height="52"/>
+      <br/><sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="52" height="52"/>
+      <br/><sub><b>SQLite</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="52" height="52"/>
+      <br/><sub><b>Elasticsearch</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td colspan="8" align="center">
+      <strong>☁️ AWS Services</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="52" height="52"/>
+      <br/><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" alt="AWS SQS" width="52" height="52"/>
+      <br/><sub><b>SQS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Notification-Service.svg" alt="AWS SNS" width="52" height="52"/>
+      <br/><sub><b>SNS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" alt="AWS CloudWatch" width="52" height="52"/>
+      <br/><sub><b>CloudWatch</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="AWS Lambda" width="52" height="52"/>
+      <br/><sub><b>Lambda</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/EventBridge.svg" alt="AWS EventBridge" width="52" height="52"/>
+      <br/><sub><b>EventBridge</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="./assets/icons/aws-pinpoint.svg" alt="AWS Pinpoint" width="52" height="52"/>
+      <br/><sub><b>Pinpoint</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elemental-MediaConvert.svg" alt="AWS MediaConvert" width="52" height="52"/>
+      <br/><sub><b>MediaConvert</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td colspan="4" align="center">
+      <strong>🚀 DevOps & Cloud</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="52" height="52"/>
+      <br/><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="52" height="52"/>
+      <br/><sub><b>Heroku</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="52" height="52"/>
+      <br/><sub><b>Grafana</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="52" height="52"/>
+      <br/><sub><b>Prometheus</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <strong>📡 Monitoring & Logging</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/bugsnag/bugsnag-icon.svg" alt="Bugsnag" width="52" height="52"/>
+      <br/><sub><b>Bugsnag</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="Sentry" width="52" height="52"/>
+      <br/><sub><b>Sentry</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" alt="Sumo Logic" width="52" height="52"/>
+      <br/><sub><b>Sumo Logic</b></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td colspan="5" align="center">
+      <strong>🔧 Tools</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="52" height="52"/>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="52" height="52"/>
+      <br/><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="52" height="52"/>
+      <br/><sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="52" height="52"/>
+      <br/><sub><b>Webpack</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="52" height="52"/>
+      <br/><sub><b>Vite</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td colspan="6" align="center">
+      <strong>🤖 AI Assistants</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/simple-icons:cursor.svg?color=%23FFFFFF" alt="Cursor" width="52" height="52"/>
+      <br/><sub><b>Cursor</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:claude-icon.svg" alt="Claude" width="52" height="52"/>
+      <br/><sub><b>Claude</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/minimax.svg" alt="MiniMax" width="52" height="52"/>
+      <br/><sub><b>MiniMax</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/deepseek.svg" alt="DeepSeek" width="52" height="52"/>
+      <br/><sub><b>DeepSeek</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" alt="Gemini" width="52" height="52"/>
+      <br/><sub><b>Gemini</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="GitHub Copilot" width="52" height="52"/>
+      <br/><sub><b>Copilot</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/dkdottk">
