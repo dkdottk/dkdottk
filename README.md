@@ -34,6 +34,18 @@
 
 <br/>
 
+<style>
+  .tech-icon {
+    width: 52px;
+    height: 52px;
+    object-fit: contain;
+    padding: 4px;
+    box-sizing: border-box;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
 <table align="center">
   <tr>
     <td colspan="6" align="center">
@@ -42,15 +54,15 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" class="tech-icon"/>
       <br/><sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" class="tech-icon"/>
       <br/><sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" class="tech-icon"/>
       <br/><sub><b>Ruby</b></sub>
     </td>
   </tr>
@@ -66,23 +78,23 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" class="tech-icon"/>
       <br/><sub><b>React</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" class="tech-icon"/>
       <br/><sub><b>Vue.js</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" class="tech-icon"/>
       <br/><sub><b>HTML5</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" class="tech-icon"/>
       <br/><sub><b>CSS3</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" class="tech-icon"/>
       <br/><sub><b>Bootstrap</b></sub>
     </td>
   </tr>
@@ -98,27 +110,27 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" class="tech-icon"/>
       <br/><sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" class="tech-icon"/>
       <br/><sub><b>Express</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="Ruby on Rails" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original.svg" alt="Ruby on Rails" class="tech-icon"/>
       <br/><sub><b>Rails</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://api.iconify.design/mdi:server-network.svg?color=%23CC342D" alt="Rack" width="52" height="52"/>
+      <img src="https://api.iconify.design/mdi:server-network.svg?color=%23CC342D&height=44" alt="Rack" class="tech-icon"/>
       <br/><sub><b>Rack</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:grape.svg" alt="Grape" width="52" height="52"/>
+      <img src="https://api.iconify.design/logos:grape.svg?height=44" alt="Grape" class="tech-icon"/>
       <br/><sub><b>Grape</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:sinatra.svg" alt="Sinatra" width="52" height="52"/>
+      <img src="https://api.iconify.design/logos:sinatra.svg?height=44" alt="Sinatra" class="tech-icon"/>
       <br/><sub><b>Sinatra</b></sub>
     </td>
   </tr>
@@ -134,27 +146,27 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" class="tech-icon"/>
       <br/><sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" class="tech-icon"/>
       <br/><sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" class="tech-icon"/>
       <br/><sub><b>MongoDB</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" class="tech-icon"/>
       <br/><sub><b>Redis</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="52" height="52"/>
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" class="tech-icon"/>
       <br/><sub><b>SQLite</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" class="tech-icon"/>
       <br/><sub><b>Elasticsearch</b></sub>
     </td>
   </tr>
@@ -170,35 +182,35 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="52" height="52"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" class="tech-icon"/>
       <br/><sub><b>AWS</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" alt="AWS SQS" width="52" height="52"/>
+      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" alt="AWS SQS" class="tech-icon"/>
       <br/><sub><b>SQS</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Notification-Service.svg" alt="AWS SNS" width="52" height="52"/>
+      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Notification-Service.svg" alt="AWS SNS" class="tech-icon"/>
       <br/><sub><b>SNS</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" alt="AWS CloudWatch" width="52" height="52"/>
+      <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" alt="AWS CloudWatch" class="tech-icon"/>
       <br/><sub><b>CloudWatch</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="AWS Lambda" width="52" height="52"/>
+      <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="AWS Lambda" class="tech-icon"/>
       <br/><sub><b>Lambda</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/EventBridge.svg" alt="AWS EventBridge" width="52" height="52"/>
+      <img src="https://icon.icepanel.io/AWS/svg/App-Integration/EventBridge.svg" alt="AWS EventBridge" class="tech-icon"/>
       <br/><sub><b>EventBridge</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="./assets/icons/aws-pinpoint.svg" alt="AWS Pinpoint" width="52" height="52"/>
+      <img src="./assets/icons/aws-pinpoint.svg" alt="AWS Pinpoint" class="tech-icon"/>
       <br/><sub><b>Pinpoint</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elemental-MediaConvert.svg" alt="AWS MediaConvert" width="52" height="52"/>
+      <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elemental-MediaConvert.svg" alt="AWS MediaConvert" class="tech-icon"/>
       <br/><sub><b>MediaConvert</b></sub>
     </td>
   </tr>
@@ -214,19 +226,19 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" class="tech-icon"/>
       <br/><sub><b>Docker</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" class="tech-icon"/>
       <br/><sub><b>Heroku</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" class="tech-icon"/>
       <br/><sub><b>Grafana</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" class="tech-icon"/>
       <br/><sub><b>Prometheus</b></sub>
     </td>
   </tr>
@@ -242,15 +254,15 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/bugsnag/bugsnag-icon.svg" alt="Bugsnag" width="52" height="52"/>
+      <img src="https://www.vectorlogo.zone/logos/bugsnag/bugsnag-icon.svg" alt="Bugsnag" class="tech-icon"/>
       <br/><sub><b>Bugsnag</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="Sentry" width="52" height="52"/>
+      <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="Sentry" class="tech-icon"/>
       <br/><sub><b>Sentry</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" alt="Sumo Logic" width="52" height="52"/>
+      <img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" alt="Sumo Logic" class="tech-icon"/>
       <br/><sub><b>Sumo Logic</b></sub>
     </td>
   </tr>
@@ -264,23 +276,23 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="52" height="52"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class="tech-icon"/>
       <br/><sub><b>Git</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="52" height="52"/>
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" class="tech-icon"/>
       <br/><sub><b>VS Code</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="52" height="52"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" class="tech-icon"/>
       <br/><sub><b>Postman</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="52" height="52"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" class="tech-icon"/>
       <br/><sub><b>Webpack</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="52" height="52"/>
+      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" class="tech-icon"/>
       <br/><sub><b>Vite</b></sub>
     </td>
   </tr>
@@ -296,27 +308,27 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://api.iconify.design/simple-icons:cursor.svg?color=%23FFFFFF" alt="Cursor" width="52" height="52"/>
+      <img src="https://api.iconify.design/simple-icons:cursor.svg?color=%23FFFFFF&height=44" alt="Cursor" class="tech-icon"/>
       <br/><sub><b>Cursor</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:claude-icon.svg" alt="Claude" width="52" height="52"/>
+      <img src="https://api.iconify.design/logos:claude-icon.svg?height=44" alt="Claude" class="tech-icon"/>
       <br/><sub><b>Claude</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/minimax.svg" alt="MiniMax" width="52" height="52"/>
+      <img src="https://api.iconify.design/simple-icons:minimax.svg?color=%23FFFFFF&height=44" alt="MiniMax" class="tech-icon"/>
       <br/><sub><b>MiniMax</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/deepseek.svg" alt="DeepSeek" width="52" height="52"/>
+      <img src="https://api.iconify.design/simple-icons:deepseek.svg?color=%23FFFFFF&height=44" alt="DeepSeek" class="tech-icon"/>
       <br/><sub><b>DeepSeek</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" alt="Gemini" width="52" height="52"/>
+      <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%23FFFFFF&height=44" alt="Gemini" class="tech-icon"/>
       <br/><sub><b>Gemini</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="GitHub Copilot" width="52" height="52"/>
+      <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="GitHub Copilot" class="tech-icon"/>
       <br/><sub><b>Copilot</b></sub>
     </td>
   </tr>
