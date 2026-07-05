@@ -118,7 +118,7 @@
       <br/><sub><b>Express</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original.svg" alt="Ruby on Rails" class="tech-icon"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="Ruby on Rails" class="tech-icon"/>
       <br/><sub><b>Rails</b></sub>
     </td>
     <td align="center" width="100">
