@@ -288,6 +288,42 @@
 
 <br/>
 
+<table align="center">
+  <tr>
+    <td colspan="6" align="center">
+      <strong>🤖 AI Assistants</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/simple-icons:cursor.svg?color=%23FFFFFF" alt="Cursor" width="52" height="52"/>
+      <br/><sub><b>Cursor</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:claude-icon.svg" alt="Claude" width="52" height="52"/>
+      <br/><sub><b>Claude</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/minimax.svg" alt="MiniMax" width="52" height="52"/>
+      <br/><sub><b>MiniMax</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/deepseek.svg" alt="DeepSeek" width="52" height="52"/>
+      <br/><sub><b>DeepSeek</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" alt="Gemini" width="52" height="52"/>
+      <br/><sub><b>Gemini</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="GitHub Copilot" width="52" height="52"/>
+      <br/><sub><b>Copilot</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/dkdottk">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dkdottk&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
