@@ -1,0 +1,11 @@
+---
+description: Enforce Spec-Driven Development for all feature work
+alwaysApply: true
+---
+
+Work Spec-Driven Development (SDD) in this repo.
+
+- Before implementing a feature or behavior change, create/update `specs/<feature>/spec.md`.
+- Derive `specs/<feature>/plan.md` from the spec, then implement only what the spec requires.
+- If requirements change, update the spec first, then the code.
+- See `AGENTS.md` and `docs/spec-driven-development.md`.
